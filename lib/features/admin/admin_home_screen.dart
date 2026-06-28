@@ -7,9 +7,22 @@ class AdminHomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      key: Key('admin_home_screen'),
-      body: Center(child: Text('Admin Home')),
+    return Scaffold(
+      key: const Key('admin_home_screen'),
+      appBar: AppBar(title: const Text('Admin Dashboard')),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const Text('Admin content goes here.'),
+            const SizedBox(height: 24),
+            ElevatedButton(
+              onPressed: () async => authService.logout(),
+              child: const Text('Sign Out'),
+            ),
+          ],
+        ),
+      ),
     );
   }
 }

@@ -7,9 +7,22 @@ class UserHomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      key: Key('user_home_screen'),
-      body: Center(child: Text('User Home')),
+    return Scaffold(
+      key: const Key('user_home_screen'),
+      appBar: AppBar(title: const Text('Home')),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const Text('User content goes here.'),
+            const SizedBox(height: 24),
+            ElevatedButton(
+              onPressed: () async => authService.logout(),
+              child: const Text('Sign Out'),
+            ),
+          ],
+        ),
+      ),
     );
   }
 }
