@@ -12,6 +12,7 @@ class AuthException implements Exception {
 class AuthService {
   final FirebaseAuth _auth;
   final FirestoreService _firestoreService;
+  User? _pendingVerificationUser;
 
   AuthService({
     FirebaseAuth? auth,
@@ -31,12 +32,17 @@ class AuthService {
         email: email,
         password: password,
       );
-      await credential.user!.sendEmailVerification();
-      await _firestoreService.createUser(
-        uid: credential.user!.uid,
-        email: email,
-        displayName: displayName,
-      );
+      try {
+        await credential.user!.sendEmailVerification();
+        await _firestoreService.createUser(
+          uid: credential.user!.uid,
+          email: email,
+          displayName: displayName,
+        );
+      } catch (_) {
+        await credential.user!.delete();
+        rethrow;
+      }
     } on FirebaseAuthException catch (e) {
       throw AuthException(_mapError(e.code));
     }
@@ -52,6 +58,7 @@ class AuthService {
         password: password,
       );
       if (credential.user != null && !credential.user!.emailVerified) {
+        _pendingVerificationUser = credential.user;
         await _auth.signOut();
         throw const AuthException(
           'Please verify your email before logging in.',
@@ -84,7 +91,8 @@ class AuthService {
   }
 
   Future<void> resendVerificationEmail() async {
-    await _auth.currentUser?.sendEmailVerification();
+    await _pendingVerificationUser?.sendEmailVerification();
+    _pendingVerificationUser = null;
   }
 
   String _mapError(String code) {

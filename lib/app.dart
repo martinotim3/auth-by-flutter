@@ -34,6 +34,9 @@ class App extends StatelessWidget {
                   body: Center(child: CircularProgressIndicator()),
                 );
               }
+              if (roleSnapshot.hasError) {
+                return UserHomeScreen(authService: authService);
+              }
               if (roleSnapshot.data == 'admin') {
                 return AdminHomeScreen(authService: authService);
               }

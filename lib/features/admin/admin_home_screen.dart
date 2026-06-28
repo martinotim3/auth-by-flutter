@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:auth/features/auth/auth_service.dart';
+import 'package:auth/features/auth/widgets/auth_button.dart';
 
 class AdminHomeScreen extends StatelessWidget {
   final AuthService authService;
@@ -16,9 +17,9 @@ class AdminHomeScreen extends StatelessWidget {
           children: [
             const Text('Admin content goes here.'),
             const SizedBox(height: 24),
-            ElevatedButton(
+            AuthButton(
+              label: 'Sign Out',
               onPressed: () async => authService.logout(),
-              child: const Text('Sign Out'),
             ),
           ],
         ),
