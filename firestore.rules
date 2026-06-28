@@ -7,6 +7,7 @@ service cloud.firestore {
                     && request.resource.data.role == 'user';
       allow update: if request.auth != null && request.auth.uid == uid
                     && !('role' in request.resource.data.diff(resource.data).affectedKeys());
+      allow delete: if request.auth != null && request.auth.uid == uid;
     }
   }
 }
