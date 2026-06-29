@@ -1,0 +1,839 @@
+{
+  "nodes": [
+    {
+      "id": "file::build_gradle",
+      "label": "build.gradle.kts",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\build.gradle.kts",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\build.gradle.kts:1"
+    },
+    {
+      "id": "file::generatedpluginregistrant",
+      "label": "GeneratedPluginRegistrant.h",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Runner\\GeneratedPluginRegistrant.h",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Runner\\GeneratedPluginRegistrant.h:1"
+    },
+    {
+      "id": "generatedpluginregistrant::generatedpluginregistrant",
+      "label": "GeneratedPluginRegistrant",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java:14"
+    },
+    {
+      "id": "generatedpluginregistrant::generatedpluginregistrant::registerwith",
+      "label": ".registerWith",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java:17"
+    },
+    {
+      "id": "file::mainactivity",
+      "label": "MainActivity.kt",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\kotlin\\com\\example\\auth\\MainActivity.kt",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\kotlin\\com\\example\\auth\\MainActivity.kt:1"
+    },
+    {
+      "id": "mainactivity::mainactivity",
+      "label": "MainActivity",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\kotlin\\com\\example\\auth\\MainActivity.kt",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\kotlin\\com\\example\\auth\\MainActivity.kt:5"
+    },
+    {
+      "id": "file::settings_gradle",
+      "label": "settings.gradle.kts",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\settings.gradle.kts",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\settings.gradle.kts:1"
+    },
+    {
+      "id": "file::flutter_lldb_helper",
+      "label": "flutter_lldb_helper.py",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py:1"
+    },
+    {
+      "id": "flutter_lldb_helper::handle_new_rx_page",
+      "label": "handle_new_rx_page",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py:7"
+    },
+    {
+      "id": "flutter_lldb_helper::__lldb_init_module",
+      "label": "__lldb_init_module",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py:24"
+    },
+    {
+      "id": "file::runner_bridging_header",
+      "label": "Runner-Bridging-Header.h",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Runner\\Runner-Bridging-Header.h",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Runner\\Runner-Bridging-Header.h:1"
+    },
+    {
+      "id": "file::generated_plugin_registrant",
+      "label": "generated_plugin_registrant.h",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\flutter\\generated_plugin_registrant.h",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\flutter\\generated_plugin_registrant.h:1"
+    },
+    {
+      "id": "generated_plugin_registrant::fl_register_plugins",
+      "label": "fl_register_plugins",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\flutter\\generated_plugin_registrant.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\flutter\\generated_plugin_registrant.cc:10"
+    },
+    {
+      "id": "file::main",
+      "label": "main.cpp",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\main.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\main.cpp:1"
+    },
+    {
+      "id": "main::main",
+      "label": "main",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\main.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\main.cc:3"
+    },
+    {
+      "id": "file::my_application",
+      "label": "my_application.h",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.h",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.h:1"
+    },
+    {
+      "id": "my_application::_myapplication",
+      "label": "_MyApplication",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:10"
+    },
+    {
+      "id": "my_application::first_frame_cb",
+      "label": "first_frame_cb",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:18"
+    },
+    {
+      "id": "my_application::my_application_activate",
+      "label": "my_application_activate",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:23"
+    },
+    {
+      "id": "my_application::my_application_local_command_line",
+      "label": "my_application_local_command_line",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:82"
+    },
+    {
+      "id": "my_application::my_application_startup",
+      "label": "my_application_startup",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:103"
+    },
+    {
+      "id": "my_application::my_application_shutdown",
+      "label": "my_application_shutdown",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:112"
+    },
+    {
+      "id": "my_application::my_application_dispose",
+      "label": "my_application_dispose",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:121"
+    },
+    {
+      "id": "my_application::my_application_class_init",
+      "label": "my_application_class_init",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:127"
+    },
+    {
+      "id": "my_application::my_application_init",
+      "label": "my_application_init",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:136"
+    },
+    {
+      "id": "my_application::my_application_new",
+      "label": "my_application_new",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:138"
+    },
+    {
+      "id": "generated_plugin_registrant::registerplugins",
+      "label": "RegisterPlugins",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\flutter\\generated_plugin_registrant.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\flutter\\generated_plugin_registrant.cc:13"
+    },
+    {
+      "id": "file::flutter_window",
+      "label": "flutter_window.h",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.h",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.h:1"
+    },
+    {
+      "id": "flutter_window::flutterwindow",
+      "label": "FlutterWindow",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.h",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.h:12"
+    },
+    {
+      "id": "flutter_window::oncreate",
+      "label": "OnCreate",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp:12"
+    },
+    {
+      "id": "flutter_window::ondestroy",
+      "label": "OnDestroy",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp:42"
+    },
+    {
+      "id": "flutter_window::messagehandler",
+      "label": "MessageHandler",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp:50"
+    },
+    {
+      "id": "main::wwinmain",
+      "label": "wWinMain",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\main.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\main.cpp:8"
+    },
+    {
+      "id": "file::resource",
+      "label": "resource.h",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\resource.h",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\resource.h:1"
+    },
+    {
+      "id": "file::utils",
+      "label": "utils.h",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.h",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.h:1"
+    },
+    {
+      "id": "utils::createandattachconsole",
+      "label": "CreateAndAttachConsole",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp:10"
+    },
+    {
+      "id": "utils::getcommandlinearguments",
+      "label": "GetCommandLineArguments",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp:24"
+    },
+    {
+      "id": "utils::utf8fromutf16",
+      "label": "Utf8FromUtf16",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp:44"
+    },
+    {
+      "id": "file::win32_window",
+      "label": "win32_window.h",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.h",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.h:1"
+    },
+    {
+      "id": "win32_window::scale",
+      "label": "Scale",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:36"
+    },
+    {
+      "id": "win32_window::enablefulldpisupportifavailable",
+      "label": "EnableFullDpiSupportIfAvailable",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:42"
+    },
+    {
+      "id": "win32_window::windowclassregistrar",
+      "label": "WindowClassRegistrar",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:59"
+    },
+    {
+      "id": "win32_window::windowclassregistrar::windowclassregistrar",
+      "label": ".WindowClassRegistrar",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:61"
+    },
+    {
+      "id": "win32_window::windowclassregistrar::getinstance",
+      "label": ".GetInstance",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:64"
+    },
+    {
+      "id": "win32_window::getwindowclass",
+      "label": "GetWindowClass",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:89"
+    },
+    {
+      "id": "win32_window::unregisterwindowclass",
+      "label": "UnregisterWindowClass",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:109"
+    },
+    {
+      "id": "win32_window::win32window",
+      "label": "Win32Window",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:114"
+    },
+    {
+      "id": "win32_window::create",
+      "label": "Create",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:123"
+    },
+    {
+      "id": "win32_window::show",
+      "label": "Show",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:152"
+    },
+    {
+      "id": "win32_window::messagehandler",
+      "label": "MessageHandler",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:176"
+    },
+    {
+      "id": "win32_window::destroy",
+      "label": "Destroy",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:224"
+    },
+    {
+      "id": "win32_window::getthisfromhandle",
+      "label": "GetThisFromHandle",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:236"
+    },
+    {
+      "id": "win32_window::setchildcontent",
+      "label": "SetChildContent",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:241"
+    },
+    {
+      "id": "win32_window::getclientarea",
+      "label": "GetClientArea",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:252"
+    },
+    {
+      "id": "win32_window::gethandle",
+      "label": "GetHandle",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:258"
+    },
+    {
+      "id": "win32_window::setquitonclose",
+      "label": "SetQuitOnClose",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:262"
+    },
+    {
+      "id": "win32_window::oncreate",
+      "label": "OnCreate",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:266"
+    },
+    {
+      "id": "win32_window::ondestroy",
+      "label": "OnDestroy",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:271"
+    },
+    {
+      "id": "win32_window::updatetheme",
+      "label": "UpdateTheme",
+      "fileType": "code",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:275"
+    }
+  ],
+  "edges": [
+    {
+      "source": "file::generatedpluginregistrant",
+      "target": "generatedpluginregistrant::generatedpluginregistrant",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java:14",
+      "weight": 1
+    },
+    {
+      "source": "generatedpluginregistrant::generatedpluginregistrant",
+      "target": "generatedpluginregistrant::generatedpluginregistrant::registerwith",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java:17",
+      "weight": 1
+    },
+    {
+      "source": "file::mainactivity",
+      "target": "mainactivity::mainactivity",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\kotlin\\com\\example\\auth\\MainActivity.kt",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\android\\app\\src\\main\\kotlin\\com\\example\\auth\\MainActivity.kt:5",
+      "weight": 1
+    },
+    {
+      "source": "file::flutter_lldb_helper",
+      "target": "flutter_lldb_helper::handle_new_rx_page",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py:7",
+      "weight": 1
+    },
+    {
+      "source": "file::flutter_lldb_helper",
+      "target": "flutter_lldb_helper::__lldb_init_module",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\ios\\Flutter\\ephemeral\\flutter_lldb_helper.py:24",
+      "weight": 1
+    },
+    {
+      "source": "file::generated_plugin_registrant",
+      "target": "generated_plugin_registrant::fl_register_plugins",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\flutter\\generated_plugin_registrant.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\flutter\\generated_plugin_registrant.cc:10",
+      "weight": 1
+    },
+    {
+      "source": "file::main",
+      "target": "main::main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\main.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\main.cc:3",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::_myapplication",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:10",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::first_frame_cb",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:18",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::my_application_activate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:23",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::my_application_local_command_line",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:82",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::my_application_startup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:103",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::my_application_shutdown",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:112",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::my_application_dispose",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:121",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::my_application_class_init",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:127",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::my_application_init",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:136",
+      "weight": 1
+    },
+    {
+      "source": "file::my_application",
+      "target": "my_application::my_application_new",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\linux\\runner\\my_application.cc:138",
+      "weight": 1
+    },
+    {
+      "source": "file::generated_plugin_registrant",
+      "target": "generated_plugin_registrant::registerplugins",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\flutter\\generated_plugin_registrant.cc",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\flutter\\generated_plugin_registrant.cc:13",
+      "weight": 1
+    },
+    {
+      "source": "file::flutter_window",
+      "target": "flutter_window::flutterwindow",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp:7",
+      "weight": 1
+    },
+    {
+      "source": "file::flutter_window",
+      "target": "flutter_window::oncreate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp:12",
+      "weight": 1
+    },
+    {
+      "source": "file::flutter_window",
+      "target": "flutter_window::ondestroy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp:42",
+      "weight": 1
+    },
+    {
+      "source": "file::flutter_window",
+      "target": "flutter_window::messagehandler",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\flutter_window.cpp:50",
+      "weight": 1
+    },
+    {
+      "source": "file::main",
+      "target": "main::wwinmain",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\main.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\main.cpp:8",
+      "weight": 1
+    },
+    {
+      "source": "file::utils",
+      "target": "utils::createandattachconsole",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp:10",
+      "weight": 1
+    },
+    {
+      "source": "file::utils",
+      "target": "utils::getcommandlinearguments",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp:24",
+      "weight": 1
+    },
+    {
+      "source": "file::utils",
+      "target": "utils::utf8fromutf16",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\utils.cpp:44",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::scale",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:36",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::enablefulldpisupportifavailable",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:42",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::windowclassregistrar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:59",
+      "weight": 1
+    },
+    {
+      "source": "win32_window::windowclassregistrar",
+      "target": "win32_window::windowclassregistrar::windowclassregistrar",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:61",
+      "weight": 1
+    },
+    {
+      "source": "win32_window::windowclassregistrar",
+      "target": "win32_window::windowclassregistrar::getinstance",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:64",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::getwindowclass",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:89",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::unregisterwindowclass",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:109",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::win32window",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:114",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::create",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:123",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::show",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:152",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::messagehandler",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:176",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::destroy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:224",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::getthisfromhandle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:236",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::setchildcontent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:241",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::getclientarea",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:252",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::gethandle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:258",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::setquitonclose",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:262",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::oncreate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:266",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::ondestroy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:271",
+      "weight": 1
+    },
+    {
+      "source": "file::win32_window",
+      "target": "win32_window::updatetheme",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp",
+      "sourceLocation": "C:\\Users\\Bahati\\PROJECTS\\auth\\windows\\runner\\win32_window.cpp:275",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "files": 68,
+    "nodes": 59,
+    "edges": 46,
+    "builtAt": "2026-06-28T17:11:44.341Z"
+  }
+}
