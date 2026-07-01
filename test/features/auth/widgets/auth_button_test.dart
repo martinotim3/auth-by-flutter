@@ -33,7 +33,7 @@ void main() {
     });
 
     testWidgets('button onPressed is null when passed null', (tester) async {
-      await tester.pumpWidget(MaterialApp(
+      await tester.pumpWidget(const MaterialApp(
         home: Scaffold(body: AuthButton(label: 'Sign In', onPressed: null)),
       ));
       final button = tester.widget<ElevatedButton>(find.byType(ElevatedButton));
